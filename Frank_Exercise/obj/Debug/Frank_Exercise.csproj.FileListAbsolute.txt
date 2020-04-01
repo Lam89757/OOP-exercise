@@ -1,0 +1,5 @@
+D:\Git\Frank_Exercise\Frank_Exercise\bin\Debug\Frank_Exercise.dll
+D:\Git\Frank_Exercise\Frank_Exercise\bin\Debug\Frank_Exercise.pdb
+D:\Git\Frank_Exercise\Frank_Exercise\obj\Debug\Frank_Exercise.csprojAssemblyReference.cache
+D:\Git\Frank_Exercise\Frank_Exercise\obj\Debug\Frank_Exercise.dll
+D:\Git\Frank_Exercise\Frank_Exercise\obj\Debug\Frank_Exercise.pdb
